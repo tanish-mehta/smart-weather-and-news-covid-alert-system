@@ -24,3 +24,6 @@ datetime<br/>
 PyMySQL<br/>
 
 MySQL is also reequired. The parameteres for MySQL configuration need to be inputted.
+
+Note: The feature for automatic updates at certain intervals has been removed.
+<br/> There is a bug in the pyttsx3 module so errors may be encoutered on mac.
