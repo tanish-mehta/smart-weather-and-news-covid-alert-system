@@ -21,5 +21,6 @@ json<br/>
 wheel<br/>
 sched<br/>
 datetime<br/>
+PyMySQL<br/>
 
-
+MySQL is also reequired. The parameteres for MySQL configuration need to be inputted.
