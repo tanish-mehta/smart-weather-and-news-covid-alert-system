@@ -12,7 +12,7 @@ NewsAPI - https://newsapi.org/   <br/>
 
 COVID-19 data can be accessed through the 'uk-covid-19' module provided by Public Health England- https://publichealthengland.github.io/coronavirus-dashboard-api-python-sdk 
 
-Other python modules required- 
+Other python modules required- <br/>
 logging<br/>
 requests<br/>
 pyttsx3<br/>
